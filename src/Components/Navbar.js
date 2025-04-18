@@ -47,7 +47,7 @@ const Navbar = () => {
   return (
     <nav>
       <div className='nav-logo-container'>
-        <p className='img' style={{fontFamily:'Moon Walk', fontSize:'3rem', color:'#e63946'}}>Bites</p>
+        <p className='img' style={{fontFamily:'Moon Walk', fontSize:'2.3rem', color:'#e63946'}}>Bites</p>
       </div>
       <div className="navbar-links-container">
 

@@ -573,6 +573,7 @@ nav {
   }
   .primary-subheading {
     text-align: center;
+    margin-bottom: 20px;
   }
   .watch-video-button {
     margin-left: 0rem !important;
